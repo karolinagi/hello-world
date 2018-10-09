@@ -1,4 +1,4 @@
 # hello-world
 Most awesome repository in the world!
-Hello evryone :) My name is Karolina.
+Hello evryone :)
 
